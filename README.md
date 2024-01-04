@@ -1,2 +1,2 @@
-# NAVITSAAH
+# NAVOTSAAH
 a marketing webpage
