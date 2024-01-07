@@ -60,7 +60,6 @@
     }
     .container1{
         display: block;
-        overflow:visible;
     }
     .smallscreenc1flex{
         display: flex;
@@ -68,7 +67,7 @@
         align-items: center;
     }
     .container1 .C1img img{
-        width: 90%;
+        width: 95%;
     }
     .c1heading{
         display: none;
@@ -82,36 +81,16 @@
         margin-left: 1rem;
         margin-right: 1rem;
         border-radius: 0%;
-        /* background: linear-gradient(0deg, transparent , rgba(0, 0, 105, 0.6) 50%, rgba(0, 0, 105, 0.6) 70%, rgba(0, 0, 105, 0.6) 20%,transparent); */
         color:rgb(0, 0, 0);
     }
     .c1heading1 {
         display:initial;
         text-align: end;
-        margin-left: -50%;
 
     }
     .moreabtus button{
         scale: 0.8;
     }
     .container2{
-        margin-top: 40%;
+        margin-top: 35%;
     }
- @media (min-width:1400px){
-    .nav a {
-        color: black;
-        font-size: 2rem;
-        margin: 4rem;
-        font-family: cursive;
- }
- .srchbtn input{
-    position:relative;
-    background: transparent;
-    border-radius: 30px;
-    padding:1rem 5rem;
-    border: 2px solid rgb(0, 0, 0);
-}
-.c1heading{
-    font-size: 10rem;
-    padding: 2rem;
-} 
